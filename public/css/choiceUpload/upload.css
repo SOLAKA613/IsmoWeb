@@ -1,0 +1,39 @@
+.inputFile {
+    margin-left: -200px;
+}
+
+.btnFile {
+    margin-left: -150px;
+}
+
+.erreur_id {
+    margin-left: -200px;
+}
+
+@media screen and (max-width: 493px) {
+    .inputFile {
+        margin-left: -100px;
+        width: 150px;
+    }
+    .error_file {
+        margin-left: -100px;
+    }
+    .btnFile {
+        margin-left: 10px;
+    }
+}
+
+@media screen and (max-width: 766px) and (min-width: 494px) {
+    .inputFile {
+        margin-left: -165px;
+    }
+    .error_file {
+        margin-left: -165px;
+    }
+}
+
+@media screen and (min-width: 767px) {
+    .error_file {
+        margin-left: -200px;
+    }
+}

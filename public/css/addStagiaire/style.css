@@ -1,0 +1,55 @@
+.contact-form {
+    background: rgba(232, 234, 235);
+    color: #a29a9a;
+    margin-top: 160px;
+    margin-bottom: 100px;
+    height: 700px;
+    width: 700px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.form-control1.error label {
+    display: inline-block;
+    margin-bottom: 14px;
+    margin-left: 0px;
+}
+
+.form-control1 i {
+    visibility: hidden;
+    position: absolute;
+    top: 50px;
+    right: 18px;
+}
+
+.form-control1 small {
+    color: #e74c3c;
+    position: absolute;
+    bottom: -8px;
+    left: 12px;
+    width: 537px;
+}
+
+.form-control1.success label {
+    display: inline-block;
+    margin-bottom: 5px;
+    margin-left: 0px;
+}
+
+.form-control1.success i.fa-check-circle {
+    margin-top: -10px;
+}
+
+.formAdd {
+    margin-top: 100px;
+}
+
+.btn_submit {
+    margin-top: 50px;
+    width: 698px;
+    margin-left: 10px;
+}
+
+.top {
+    margin-top: 120px;
+}

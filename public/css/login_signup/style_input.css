@@ -1,0 +1,30 @@
+.form-control1 input {
+    width: 272px;
+    margin-bottom: -8px;
+}
+
+.form-control1 label {
+    display: inline-block;
+    margin-top: -20px;
+    margin-bottom: 0px;
+    margin-left: -190px;
+}
+
+.form-control1 .label1 {
+    margin-top: 0px;
+}
+
+.title {
+    font-weight: bold;
+    margin: 0;
+    font-size: 32px;
+    margin-bottom: 14px;
+    margin-top: -42px;
+    /*this is add to sate the size of title */
+}
+
+.title1 {
+    font-weight: bold;
+    margin-top: -20px;
+    margin-bottom: 39px;
+}

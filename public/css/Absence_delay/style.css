@@ -1,0 +1,25 @@
+.modal-header {
+    width: 492px;
+    margin-left: 10px;
+}
+
+.modal-footer {
+    width: 492px;
+    margin-left: 10px;
+}
+
+.btn-link {
+    border: none;
+    outline: none;
+    background: none;
+    cursor: pointer;
+    color: #2fa4e7;
+    padding: 0;
+    text-decoration: underline;
+    font-family: inherit;
+    font-size: inherit;
+}
+
+.btn-link:active {
+    color: #FF0000;
+}
